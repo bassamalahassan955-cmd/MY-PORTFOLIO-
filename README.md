@@ -6,9 +6,9 @@ My personal portfolio showcasing my skills, projects, and certificates as a fron
 |------|-------|--------|
 | ![Home](s1.png) | ![About](s2.png) | ![Skills](s3.png) |
 
-| Projects | Contact | Responsive |
+| Projects | cirtificates | contact |
 |----------|--------|------------|
-| ![Projects](s4.png) | ![Contact](s5.png) | ![Responsive](s6.png) |
+| ![Projects](s4.png) | ![cirtificates](s5.png) | ![contact](s6.png) |
 ---
 
 🔗 Live Demo
