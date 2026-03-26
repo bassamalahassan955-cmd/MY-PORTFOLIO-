@@ -2,12 +2,12 @@
 
 📸 Screenshots
 
-"Home" (./s1.png)
-"About" (./s2.png)
-"Skills" (./s3.png)
-"Projects" (./s4.png)
-"Contact" (./s5.png)
-"Responsive" (./s6.png)
+"Home" (s1.png)
+"About" (s2.png)
+"Skills" (s3.png)
+"Projects" (s4.png)
+"Contact" (s5.png)
+"Responsive" (s6.png)
 
 ---
 
